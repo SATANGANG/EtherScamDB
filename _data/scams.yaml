@@ -3602,13 +3602,6 @@
     subcategory: MyEtherWallet
     description: Bitsquatting
 -
-    id: 526
-    name: myethirwallet.com
-    url: 'http://myethirwallet.com'
-    category: Phishing
-    subcategory: MyEtherWallet
-    description: Vowel-swap
--
     id: 527
     name: myethmrwallet.com
     url: 'http://myethmrwallet.com'
